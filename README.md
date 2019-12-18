@@ -26,4 +26,8 @@ All types: https://www.golang-book.com/books/intro/3 (Book: https://www.golang-b
  - In case we are not declaring and assigning a variable at the same time, we need to declare the type first and then to assign a value. 
  - If no value is assigned to an integer, the default is 0.
  - Go is strongly typed, so we need to match the variables' type.
+ 
+#### Conditionals
+
+ - https://www.golang-book.com/books/intro/5
 
