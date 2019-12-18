@@ -20,6 +20,7 @@ func main() {
   
   x := 1
   y := 2
+  //can be in 1 line as well: x, y := 1, 2
 
   fmt.Printf("x=%v, type of %T\n", x, x)
   fmt.Printf("y=%v, type of %T\n", y, y)
