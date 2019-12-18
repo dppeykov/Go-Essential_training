@@ -14,12 +14,12 @@
  - go test - for tests
  - go fmt - formats the code
 
-### Go basics
+### Go basics (see ) 
 ### Types
 
 All types: https://www.golang-book.com/books/intro/3 (Book: https://www.golang-book.com/books/intro)
 
-#### Numbers
+#### Numbers (see numbers.go)
 
  - We need to declare the type of the variables. 
  - In Go we have int (integer) that can be 8, 16, 32, 64 - check the link above for more info.
