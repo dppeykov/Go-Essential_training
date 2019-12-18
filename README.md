@@ -14,7 +14,7 @@
  - go test - for tests
  - go fmt - formats the code
 
-### Go basics (see ) 
+### Go basics (see hello_world.go) 
 ### Types
 
 All types: https://www.golang-book.com/books/intro/3 (Book: https://www.golang-book.com/books/intro)
