@@ -5,6 +5,7 @@ import (
 	"strings"
 )
 
+//multiline string - ``
 func main() {
 	text := `
 	Needles and pins
